@@ -1,5 +1,5 @@
 <h1 align="center"> >> BetterCS << </h1> 
-<h4 align="center">sdf</a></h4>
+<h4 align="center">BetterCS </a></h4>
 
 ------
 
