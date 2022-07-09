@@ -86,6 +86,8 @@
   - Read from a memory address<br>
   - Read from a memory address with a safe function<br>
   - Write in a memory address<br>
+  - Send Input Key<br>
+  - Send Input Key in a certain Process<br>
   - Inject DLL files into running processes by process PID or process executable's path
 </details>
 
