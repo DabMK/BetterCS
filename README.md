@@ -94,7 +94,7 @@
 
 <details>
   <summary><b>Geography (BCSGeography)</b></summary>
-  - Get capital by country following according to the 196 world countries list<br>
-  - Get country by capital following according to the 196 world countries list<br>
+  - Get capital by country according to the 196 world countries list<br>
+  - Get country by capital according to the 196 world countries list<br>
   - Check if a string is a country
 </details>
